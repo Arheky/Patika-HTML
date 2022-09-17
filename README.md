@@ -1,2 +1,2 @@
 # Patika
-## Patika Front-End HTML eğitimi ödevleri
+## Patika Front-End HTML eğitimi ödevi
